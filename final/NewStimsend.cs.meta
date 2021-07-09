@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 913297d6fed886e4781cf7db3b3c6ea6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Stim1: {fileID: 7118962718052847420, guid: 622904936f7afeb4f8f860d15faf1b1a, type: 3}
+  - Stim2: {fileID: 4536978642245069031, guid: 2958d690ac574de468583327cb217fb0, type: 3}
+  - Cross: {fileID: 5421666584922607994, guid: a73c9b58181aaaa44828196ac6002f6d, type: 3}
+  - Check: {fileID: 6573665203042842446, guid: c9ae193ab4e3c7941ae37de71604e91d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
